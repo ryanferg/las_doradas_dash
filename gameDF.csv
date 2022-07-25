@@ -1,0 +1,52 @@
+match_id,match_date,home_team_id,away_team_id,home_score,away_score,home_team_name,away_team_name,match_name
+3788741,2021-06-11,909,914,0,3,Turkey,Italy,Italy vs. Turkey
+3788742,2021-06-12,776,1835,0,1,Denmark,Finland,Finland vs. Denmark
+3788743,2021-06-12,782,796,3,0,Belgium,Russia,Russia vs. Belgium
+3788744,2021-06-12,907,773,1,1,Wales,Switzerland,Switzerland vs. Wales
+3788745,2021-06-13,768,785,1,0,England,Croatia,Croatia vs. England
+3788746,2021-06-13,941,911,3,2,Netherlands,Ukraine,Ukraine vs. Netherlands
+3788747,2021-06-13,915,2358,3,1,Austria,North Macedonia,North Macedonia vs. Austria
+3788748,2021-06-14,942,912,0,2,Scotland,Czech Republic,Czech Republic vs. Scotland
+3788749,2021-06-14,789,908,1,2,Poland,Slovakia,Slovakia vs. Poland
+3788750,2021-06-14,772,790,0,0,Spain,Sweden,Sweden vs. Spain
+3788751,2021-06-15,771,770,1,0,France,Germany,Germany vs. France
+3788752,2021-06-15,916,780,0,3,Hungary,Portugal,Portugal vs. Hungary
+3788753,2021-06-16,1835,796,0,1,Finland,Russia,Russia vs. Finland
+3788754,2021-06-16,914,773,3,0,Italy,Switzerland,Switzerland vs. Italy
+3788755,2021-06-16,909,907,0,2,Turkey,Wales,Wales vs. Turkey
+3788756,2021-06-17,941,915,2,0,Netherlands,Austria,Austria vs. Netherlands
+3788757,2021-06-17,776,782,1,2,Denmark,Belgium,Belgium vs. Denmark
+3788758,2021-06-17,911,2358,2,1,Ukraine,North Macedonia,North Macedonia vs. Ukraine
+3788759,2021-06-18,768,942,0,0,England,Scotland,Scotland vs. England
+3788760,2021-06-18,785,912,1,1,Croatia,Czech Republic,Czech Republic vs. Croatia
+3788761,2021-06-18,790,908,1,0,Sweden,Slovakia,Slovakia vs. Sweden
+3788762,2021-06-19,772,789,1,1,Spain,Poland,Poland vs. Spain
+3788763,2021-06-19,916,771,1,1,Hungary,France,France vs. Hungary
+3788764,2021-06-19,780,770,2,4,Portugal,Germany,Germany vs. Portugal
+3788765,2021-06-20,773,909,3,1,Switzerland,Turkey,Turkey vs. Switzerland
+3788766,2021-06-20,914,907,1,0,Italy,Wales,Wales vs. Italy
+3788767,2021-06-21,911,915,0,1,Ukraine,Austria,Austria vs. Ukraine
+3788768,2021-06-21,1835,782,0,2,Finland,Belgium,Belgium vs. Finland
+3788769,2021-06-21,796,776,1,4,Russia,Denmark,Denmark vs. Russia
+3788770,2021-06-21,2358,941,0,3,North Macedonia,Netherlands,Netherlands vs. North Macedonia
+3788771,2021-06-22,785,942,3,1,Croatia,Scotland,Scotland vs. Croatia
+3788772,2021-06-22,912,768,0,1,Czech Republic,England,England vs. Czech Republic
+3788773,2021-06-23,780,771,2,2,Portugal,France,France vs. Portugal
+3788774,2021-06-23,770,916,2,2,Germany,Hungary,Hungary vs. Germany
+3788775,2021-06-23,908,772,0,5,Slovakia,Spain,Spain vs. Slovakia
+3788776,2021-06-23,790,789,3,2,Sweden,Poland,Poland vs. Sweden
+3794685,2021-06-26,914,915,2,1,Italy,Austria,Austria vs. Italy
+3794686,2021-06-28,785,772,3,5,Croatia,Spain,Spain vs. Croatia
+3794687,2021-06-27,782,780,1,0,Belgium,Portugal,Portugal vs. Belgium
+3794688,2021-06-29,768,770,2,0,England,Germany,Germany vs. England
+3794689,2021-06-26,907,776,0,4,Wales,Denmark,Denmark vs. Wales
+3794690,2021-06-27,941,912,0,2,Netherlands,Czech Republic,Czech Republic vs. Netherlands
+3794691,2021-06-28,771,773,3,3,France,Switzerland,Switzerland vs. France
+3794692,2021-06-29,790,911,1,2,Sweden,Ukraine,Ukraine vs. Sweden
+3795107,2021-07-02,782,914,1,2,Belgium,Italy,Italy vs. Belgium
+3795108,2021-07-02,773,772,1,1,Switzerland,Spain,Spain vs. Switzerland
+3795109,2021-07-03,912,776,1,2,Czech Republic,Denmark,Denmark vs. Czech Republic
+3795187,2021-07-03,911,768,0,4,Ukraine,England,England vs. Ukraine
+3795220,2021-07-06,914,772,1,1,Italy,Spain,Spain vs. Italy
+3795221,2021-07-07,768,776,2,1,England,Denmark,Denmark vs. England
+3795506,2021-07-11,914,768,1,1,Italy,England,England vs. Italy
